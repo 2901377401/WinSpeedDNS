@@ -8,3 +8,4 @@ dns_servers.json 配置文件  默认有一些配置
     "dns_servers": [   ]//dns表
 }
 ```
+gitee：https://gitee.com/L2901377401/win-speed-dns
